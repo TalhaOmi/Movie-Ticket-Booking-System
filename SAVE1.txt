@@ -1,0 +1,5 @@
+100 Breaking_Bad Crime 26-8-2019 750
+200 Joker Thriller 4-10-2019 1000
+300 End_Game Adventure 26-8-2019 1200
+400 IT Horror 6-09-2019 600
+500 Avatar Adventure 1-1-2020 950
